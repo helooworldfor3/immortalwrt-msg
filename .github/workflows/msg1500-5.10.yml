@@ -33,11 +33,6 @@ on:
 #    - cron: 0 20 * * 6
 
 
-#点☆Star触发开始编译
-  watch:
-    types: started
-
-
 env:
   REPO_URL: https://github.com/nanchuci/immortalwrt-1
   REPO_BRANCH: master
