@@ -11,7 +11,7 @@
 name: msg1500-5.10-xiao
 
 env:
-  REPO_URL: https://github.com/nanchuci/immortalwrt-1
+  REPO_URL: https://github.com/padavanonly/immortalwrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: config/msg1500-xiao.config
